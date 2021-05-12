@@ -26,6 +26,6 @@
     "joi": "^14.3.1",
     "joi-objectid": "^3.0.1",
     "mongoose": "^5.9.4",
-    "nodemailer": "^6.4.5"
+    "nodemailer": "^6.4.16"
   }
 }
